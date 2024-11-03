@@ -1,4 +1,4 @@
 # The Camp Opera
 
-[Live site](dkessner.github.io/TheCampOpera)
+[Live site](https://dkessner.github.io/TheCampOpera/)
 
