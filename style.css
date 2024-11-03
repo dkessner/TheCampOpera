@@ -1,4 +1,6 @@
-
+/*
+ * style.css
+ */
 
 body {
     color: #fff;
@@ -13,11 +15,14 @@ h1 {
     font-size: 5vw;
 }
 
+h2 {
+    font-size: 3vw;
+}
+
 .menu {
     display: flex;
     justify-content: center;
 }
-
 
 .menuitem {
     padding-left: 2vw;
