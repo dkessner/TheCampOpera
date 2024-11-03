@@ -32,7 +32,6 @@ h2 {
 
 a {
     color: #fff;
-    font-size: 2.5vw;
     text-decoration: none;
 }
 
@@ -51,4 +50,24 @@ p {
     text-align: left;
 }
 
+.front {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.front_left{
+    width: 27%;
+    margin-left: 2%;
+}
+
+.front_center{
+    width: 43%;
+}
+
+.front_right {
+    width: 37%;
+    margin-right: 2%;
+}
 
