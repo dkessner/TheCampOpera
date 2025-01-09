@@ -38,6 +38,9 @@ h2 {
     padding-right: 2vw;
 }
 
+b {
+    color: #bfa67d; /*beige*/
+}
 
 a {
     color: #fff;
@@ -60,24 +63,36 @@ p {
     text-align: left;
 }
 
-.front {
+.footer {
     display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 
-.front_left{
-    width: 27%;
+.footer_left{
+    width: 30%;
     margin-left: 2%;
+    border-style: solid;
+    padding: 5px;
 }
 
-.front_center{
-    width: 43%;
+.footer_center{
+    width: 50%;
+    border-style: solid;
+    padding: 5px;
 }
 
-.front_right {
-    width: 37%;
+.footer_right {
+    width: 20%;
     margin-right: 2%;
+    border-style: solid;
+    padding: 5px;
 }
+
+
+.button {
+    border-style: solid;
+    padding: 15px;
+    margin: 15px;
+}
+
 
