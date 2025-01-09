@@ -2,11 +2,20 @@
  * style.css
  */
 
+
+/*
+Brown #62260c
+Beige #bfa67d
+White
+*/
+
+
 body {
     color: #fff;
-    background-color: #000;
+    background-color: #62260c; /*brown*/
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-size: 2vw;
 }
 
@@ -36,7 +45,8 @@ a {
 }
 
 a.selected, a:hover {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+    color: #bfa67d; /*beige*/
 }
 
 
