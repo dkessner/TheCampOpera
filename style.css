@@ -20,22 +20,24 @@ body {
 }
 
 h1 {
-    font-family: "Times New Roman", serif;
     font-size: 5vw;
 }
 
 h2 {
+    padding: 5px;
     font-size: 3vw;
 }
 
 .menu {
     display: flex;
     justify-content: center;
+    padding: 20px;
 }
 
 .menuitem {
-    padding-left: 2vw;
-    padding-right: 2vw;
+    font-size: 3vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
 }
 
 b {
