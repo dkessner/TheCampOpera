@@ -107,4 +107,32 @@ img.button {
 }
 
 
+.headshot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1vw;
+}
+
+.headshot img {
+    height: 20vw;
+}
+
+.headshot p {
+    text-align: center;
+}
+
+.headshot_row {
+    display: flex;
+    margin: auto;
+}
+
+.headshot_row_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
 
