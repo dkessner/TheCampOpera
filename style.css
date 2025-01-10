@@ -13,14 +13,13 @@ White
 body {
     color: #fff;
     background-color: #62260c; /*brown*/
-    /*text-align: center;*/
-    /*font-family: Arial, Helvetica, sans-serif;*/
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-size: 2vw;
 }
 
 .center {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 h1 {
