@@ -95,8 +95,9 @@ p, ul {
 
 .button {
     border-style: solid;
-    padding: 3vw;
-    margin: 3vw;
+    padding: 4vw;
+    margin: 4vw;
+    text-align: center;
 }
 
 img.button {
