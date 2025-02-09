@@ -58,6 +58,9 @@ a.selected, a:hover {
     color: #bfa67d; /*beige*/
 }
 
+a.inline_text {
+    text-decoration: underline;
+}
 
 p, ul {
     padding-left: 15%;
@@ -76,20 +79,20 @@ p, ul {
 .footer_left{
     width: 30%;
     margin-left: 2%;
-    border-style: solid;
+    border-style: none;
     padding: .5vw;
 }
 
 .footer_center{
-    width: 50%;
-    border-style: solid;
+    width: 45%;
+    border-style: none;
     padding: .5vw;
 }
 
 .footer_right {
-    width: 20%;
+    width: 25%;
     margin-right: 2%;
-    border-style: solid;
+    border-style: none;
     padding: .5vw;
 }
 
@@ -148,3 +151,9 @@ button:hover {
     color: #bfa67d; /*beige*/
     border-color: #bfa67d; /*beige*/
 }
+
+hr {
+    border-color: #bfa67d; /*beige*/
+}
+
+
